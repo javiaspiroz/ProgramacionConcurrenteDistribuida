@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\fibRecursivoVsIterativo.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\fibRecursivoVsIterativo.dir/objects.a @CMakeFiles\fibRecursivoVsIterativo.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\fibRecursivoVsIterativo.dir/objects.a -Wl,--no-whole-archive  -o debug\fibRecursivoVsIterativo.exe -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fibRecursivoVsIterativo.dir\linklibs.rsp

@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fibRecursivoVsIterativo",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "fibRecursivoVsIterativo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fibRecursivoVsIterativo-Debug-e264f909f56fda3c1b70.json",
+					"name" : "fibRecursivoVsIterativo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionConcurrenteDistribuida/fibRecursivoVsIterativo/build",
+		"source" : "D:/MisDocumentos/UEM/Proyectos/ProgramacionConcurrenteDistribuida/fibRecursivoVsIterativo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
